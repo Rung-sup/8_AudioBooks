@@ -4,7 +4,7 @@ import subprocess
 # ==========================================
 # แก้ไขลิงก์เพลย์ลิสต์ตรงนี้
 # ==========================================
-PLAYLIST_URL = "https://www.youtube.com/watch?v=Jcx91XPNGMw&list=PLfhTfuFWys38kUtou-FTRv15WqVnzkTli"
+PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLmy70Kstgq3_3cO1Dv0IA5AsaMjTRW4z9"
 OUTPUT_FILE = "links.txt"
 # ==========================================
 
